@@ -2,7 +2,7 @@
 
 class AutoTemplate_Core_Controller_Auto_Template extends Controller_Template {
 	
-	public $template = 'template.tpl';
+	public $template = 'template';
 	
 	protected $stylesheets = array();
 	
